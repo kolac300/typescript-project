@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Gold",
+        "price": 10.99,
+        "imgUrl": "https://media.istockphoto.com/id/1007461704/photo/treasure-chest-filled-with-gold-coins.jpg?b=1&s=612x612&w=0&k=20&c=XmH0jtumisrg98nSJTKbt1WS2wWvTl-3oJqtjoYEQ0o="
+    },
+    {
+        "id": 2,
+        "name": "Bounty",
+        "price": 1199,
+        "imgUrl": "https://media.istockphoto.com/id/621109162/photo/close-up-concept-greeting-card-of-opened-vintage-chest-treasure.jpg?b=1&s=612x612&w=0&k=20&c=GuFyCk_Um8eTjwSP4cIZ_QOdBekWa4O9cclnDSmfOp4="
+    },
+    {
+        "id": 3,
+        "name": "Water",
+        "price": 1.05,
+        "imgUrl": "https://media.istockphoto.com/id/959655116/photo/water-and-hand-cupped-with-conservation-and-sustainable-concept.jpg?b=1&s=612x612&w=0&k=20&c=n_9TvsvcaOtDsNNkGWWo8y-AdwMOP52ZAMABxWSpsAA="
+    }
+]
